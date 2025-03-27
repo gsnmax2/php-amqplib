@@ -1,15 +1,7 @@
-vendor/
-composer.lock
-phpunit.xml
-build/
-docs/
-tools/
-phpDocumentor.phar
-
-###> squizlabs/php_codesniffer ###
-/.phpcs-cache
-/phpcs.xml
-###< squizlabs/php_codesniffer ###
-
-.phpunit.result.cache
-.phpdoc
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
